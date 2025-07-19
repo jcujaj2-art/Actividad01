@@ -1,5 +1,5 @@
 package veterinariaapp;
-
+//josue cuja
 public class Veterinaria {
     public void registrarMascotas() {
         Mascota m1 = new Mascota("Firulais", "Perro", 4, true);

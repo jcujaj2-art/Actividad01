@@ -1,5 +1,5 @@
 package veterinariaapp;
-
+//josue cuja
 public class Mascota {
     private String nombre;
     private String especie;
